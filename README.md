@@ -28,8 +28,8 @@ This is a simple Todo application built using React class components and Materia
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/rimjhimkushwaha4/My-todo-app.git
+   cd My-todo-app
    ```
 
 Install dependencies:
